@@ -1,6 +1,8 @@
 <!-- GitHub Stats -->
 <div align="center">
-  ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamyedekar)
+  ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamRSY&show_icons=true&hide_title=true&count_private=true)
+
+
 </div>
 
 <!-- Text Introduction with Emoji -->
